@@ -17,8 +17,11 @@ Each problem lives in its own folder named by problem number and title.
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| 🟢 Easy | ✅ | ✅ |
 
 **Total solved: 5**
+
 **Total `Easy`: 5**
+
 **Total `Medium`: 0**
+
 **Total `Hard`: 0**
 
 ---
