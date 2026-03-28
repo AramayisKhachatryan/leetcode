@@ -17,12 +17,13 @@ Each problem lives in its own folder named by problem number and title.
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)| 🟢 Easy | ✅ | - |
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| 🟢 Easy | ✅ | - |
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| 🟢 Easy | ✅ | ✅ |
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/submissions/1962040774/)| 🟢 Easy | ✅ | ✅ |
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)| 🟢 Easy | ✅ | - |
 
 
-**Total solved: 8**
+**Total solved: 9**
 
-**Total `Easy`: 7**
+**Total `Easy`: 8**
 
 **Total `Medium`: 1**
 
