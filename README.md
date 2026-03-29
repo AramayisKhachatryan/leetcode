@@ -16,6 +16,7 @@ Each problem lives in its own folder named by problem number and title.
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | 🟢 Easy | ✅ | - |
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)| 🟡 Medium | ✅ | - |
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)| 🟢 Easy | ✅ | - |
+|167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)| 🟢 Easy | ✅ | - |
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| 🟢 Easy | ✅ | - |
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| 🟢 Easy | ✅ | ✅ |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/submissions/1962040774/)| 🟢 Easy | ✅ | ✅ |
